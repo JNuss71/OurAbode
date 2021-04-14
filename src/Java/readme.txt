@@ -1,0 +1,2 @@
+In order to run the run.bat file inside of /src/, you must set the /binaries folder to be in your system Path.
+You must also edit the file so that it has the correct paths to your jdk folder, and to the folder this repository is contained within.

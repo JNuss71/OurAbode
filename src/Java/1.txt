@@ -1,0 +1,3 @@
+gPref=255
+rPref=255
+bPref=255

@@ -1,0 +1,3 @@
+gPref=150
+rPref=205
+bPref=0

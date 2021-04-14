@@ -1,0 +1,3 @@
+gPref=50
+rPref=50
+bPref=50

@@ -1,0 +1,3 @@
+gPref=210
+rPref=75
+bPref=108
